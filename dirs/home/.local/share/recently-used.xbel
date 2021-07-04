@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/jpierro/Pictures/wallpaper.jpg" added="2021-06-17T16:24:40.511042Z" modified="2021-06-17T17:23:34.755819Z" visited="2021-06-17T16:24:40.511043Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-17T16:24:41.039665Z" count="2"/>
+          <bookmark:application name="xfce4-panel" exec="&apos;xfce4-panel %u&apos;" modified="2021-06-17T17:23:34.755809Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Downloads/Desert-Teal-Blue-XFCE-1.3.tar.xz" added="2021-06-17T16:25:08.038670Z" modified="2021-06-17T16:25:08.038682Z" visited="2021-06-17T16:25:08.038672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-17T16:25:08.038675Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.themes" added="2021-06-17T16:26:23.526518Z" modified="2021-06-17T16:26:23.526524Z" visited="2021-06-17T16:26:23.526520Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-06-17T16:26:23.526522Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Pictures" added="2021-06-17T16:29:01.664819Z" modified="2021-06-17T17:11:07.313115Z" visited="2021-06-17T16:29:01.664820Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xfdesktop-settings" exec="&apos;xfdesktop-settings %u&apos;" modified="2021-06-17T17:11:07.313110Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Documents/p2-gdb.png" added="2021-06-17T21:37:39.811053Z" modified="2021-06-17T21:37:39.811062Z" visited="2021-06-17T21:37:39.811055Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2021-06-17T21:37:39.811058Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/bluetooth/main.conf" added="2021-06-18T14:45:34.878167Z" modified="2021-06-18T14:45:34.878176Z" visited="2021-06-18T14:45:34.878169Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-06-18T14:45:34.878172Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/pipewire/pipewire.conf" added="2021-06-18T14:53:37.282302Z" modified="2021-06-18T14:53:37.282308Z" visited="2021-06-18T14:53:37.282303Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-06-18T14:53:37.282305Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/pipewire/pipewire-pulse.conf" added="2021-06-18T14:54:27.116663Z" modified="2021-06-18T14:54:27.116668Z" visited="2021-06-18T14:54:27.116664Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-06-18T14:54:27.116666Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/pipewire/media-session.d/bluez-monitor.conf" added="2021-06-18T14:54:44.635774Z" modified="2021-06-18T14:54:44.635791Z" visited="2021-06-18T14:54:44.635777Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-06-18T14:54:44.635785Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Documents/work/arduino-usb-serial" added="2021-06-18T15:58:02.222818Z" modified="2021-06-18T15:58:02.222828Z" visited="2021-06-18T15:58:02.222821Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-06-18T15:58:02.222824Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Downloads/CamScanner%2006-20-2021%2016.57.pdf" added="2021-06-20T16:59:04.107372Z" modified="2021-06-20T16:59:04.107390Z" visited="2021-06-20T16:59:04.107376Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-20T16:59:04.107383Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Downloads/Homework1.pdf" added="2021-06-20T16:59:23.827288Z" modified="2021-06-20T16:59:23.827309Z" visited="2021-06-20T16:59:23.827293Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-20T16:59:23.827300Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210621/MiniSHARC-Arduino" added="2021-06-21T12:07:13.065283Z" modified="2021-06-21T12:07:13.065286Z" visited="2021-06-21T12:07:13.065284Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-06-21T12:07:13.065284Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210621/notes.txt" added="2021-06-21T12:46:08.618834Z" modified="2021-06-21T12:46:08.618839Z" visited="2021-06-21T12:46:08.618835Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2021-06-21T12:46:08.618837Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210621/serial_echo_sketch" added="2021-06-21T12:47:02.926099Z" modified="2021-06-21T12:47:02.926109Z" visited="2021-06-21T12:47:02.926100Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2021-06-21T12:47:02.926104Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_jpierro0/flyingfox.tar.gz" added="2021-06-22T14:10:26.072188Z" modified="2021-06-22T14:10:26.072204Z" visited="2021-06-22T14:10:26.072192Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-22T14:10:26.072197Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Downloads/flyingfox.zip" added="2021-06-22T14:16:30.019434Z" modified="2021-06-22T14:16:39.684074Z" visited="2021-06-22T14:16:30.019490Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-22T14:16:39.684068Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/greywolf_Arduino_tasks.doc" added="2021-06-22T14:18:41.094582Z" modified="2021-06-24T14:16:20.215006Z" visited="2021-06-22T14:18:41.094586Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/msword"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2021-06-24T14:16:17.799052Z" count="3"/>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-24T14:16:20.214996Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_jpierro0/vim-atom-dark-master.zip" added="2021-06-22T15:38:25.697412Z" modified="2021-06-22T15:38:25.697427Z" visited="2021-06-22T15:38:25.697416Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-22T15:38:25.697421Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.viminfo" added="2021-06-22T15:58:04.893031Z" modified="2021-06-22T15:58:12.009878Z" visited="2021-06-22T15:58:04.893034Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T15:58:12.009874Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.local/share/nvim/site/autoload/plug.vim" added="2021-06-22T15:58:36.512090Z" modified="2021-06-22T15:59:13.610702Z" visited="2021-06-22T15:58:36.512094Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T15:59:13.610698Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Downloads/nvim-d7115e0dd576a5b03ac143e04424fb6e2cefc0e4.zip" added="2021-06-22T16:23:05.902459Z" modified="2021-06-22T16:23:05.902473Z" visited="2021-06-22T16:23:05.902463Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-22T16:23:05.902467Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Downloads/nvim-d7115e0dd576a5b03ac143e04424fb6e2cefc0e4/general/mappings.vim" added="2021-06-22T16:40:15.547099Z" modified="2021-06-22T16:40:23.440683Z" visited="2021-06-22T16:40:15.547104Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2021-06-22T16:40:15.547110Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T16:40:23.440674Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Downloads/nvim-d7115e0dd576a5b03ac143e04424fb6e2cefc0e4/general/settings.vim" added="2021-06-22T16:40:25.544091Z" modified="2021-06-22T17:35:47.067875Z" visited="2021-06-22T16:40:25.544094Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T17:35:47.067870Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/general/plugins.vim" added="2021-06-22T16:41:36.476270Z" modified="2021-06-25T14:52:15.266494Z" visited="2021-06-22T16:41:36.476274Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T20:37:59.107045Z" count="22"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-25T14:52:15.266492Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/colors" added="2021-06-22T16:41:47.557297Z" modified="2021-06-22T16:41:47.557307Z" visited="2021-06-22T16:41:47.557300Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-06-22T16:41:47.557303Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/init.vim" added="2021-06-22T16:44:30.541527Z" modified="2021-06-25T15:10:45.464006Z" visited="2021-06-22T16:44:30.541530Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T18:35:09.023273Z" count="27"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-25T15:10:45.464003Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/plug-config/startify.vim" added="2021-06-22T17:33:24.144137Z" modified="2021-06-22T17:33:26.928645Z" visited="2021-06-22T17:33:24.144140Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T17:33:26.928641Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Downloads/nvim-d7115e0dd576a5b03ac143e04424fb6e2cefc0e4/init.vim" added="2021-06-22T17:33:37.602614Z" modified="2021-06-22T17:34:42.460274Z" visited="2021-06-22T17:33:37.602617Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T17:34:42.460269Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/general/settings.vim" added="2021-06-22T17:35:17.448709Z" modified="2021-06-25T14:53:45.409605Z" visited="2021-06-22T17:35:17.448713Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T18:34:14.516761Z" count="16"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-25T14:53:45.409599Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Downloads/nvim-d7115e0dd576a5b03ac143e04424fb6e2cefc0e4/general/plugins.vim" added="2021-06-22T17:35:49.302947Z" modified="2021-06-22T17:35:53.077778Z" visited="2021-06-22T17:35:49.302949Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T17:35:53.077774Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/general/mappings.vim" added="2021-06-22T17:37:30.326229Z" modified="2021-06-28T14:57:19.101843Z" visited="2021-06-22T17:37:30.326233Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T17:37:56.473306Z" count="3"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-28T14:57:19.101833Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/colors/atom-dark-256.vim" added="2021-06-22T17:43:30.745022Z" modified="2021-06-22T17:43:35.534373Z" visited="2021-06-22T17:43:30.745025Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T17:43:35.534369Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/plug-config/fzf.vim" added="2021-06-22T17:44:23.244716Z" modified="2021-06-22T17:44:30.300705Z" visited="2021-06-22T17:44:23.244718Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T17:44:30.300700Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/plug-config/statusline.vim" added="2021-06-22T17:44:35.225160Z" modified="2021-06-22T20:20:25.104131Z" visited="2021-06-22T17:44:35.225165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T20:20:25.104128Z" count="21"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2021-06-22T20:20:23.753570Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/plug-config/lightline.vim" added="2021-06-22T17:44:58.005280Z" modified="2021-06-22T17:45:45.555980Z" visited="2021-06-22T17:44:58.005284Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T17:45:45.555976Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Downloads/nvim-d7115e0dd576a5b03ac143e04424fb6e2cefc0e4/plug-config/statusline.vim" added="2021-06-22T20:19:13.456360Z" modified="2021-06-22T20:19:16.470791Z" visited="2021-06-22T20:19:13.456361Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;libreoffice --writer %U&apos;" modified="2021-06-22T20:19:13.456363Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.1" exec="&apos;soffice %u&apos;" modified="2021-06-22T20:19:16.470789Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/init.lua" added="2021-06-23T14:23:21.868050Z" modified="2021-06-23T15:00:04.031204Z" visited="2021-06-23T14:23:21.868051Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-23T15:00:04.031200Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/lua/packer/install.lua" added="2021-06-23T15:02:48.140348Z" modified="2021-06-23T15:02:48.140366Z" visited="2021-06-23T15:02:48.140351Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-lua"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-23T15:02:48.140355Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Downloads/NvChad/install.sh" added="2021-06-23T15:08:40.758555Z" modified="2021-06-23T15:16:11.874835Z" visited="2021-06-23T15:08:40.758559Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nvim %F&apos;" modified="2021-06-23T15:16:11.874830Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim" added="2021-06-23T15:15:31.394320Z" modified="2021-06-23T15:15:31.394328Z" visited="2021-06-23T15:15:31.394321Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-06-23T15:15:31.394323Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Documents/work/Read_ADC_Voltages" added="2021-06-24T15:45:17.190165Z" modified="2021-06-24T15:45:17.190179Z" visited="2021-06-24T15:45:17.190169Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2021-06-24T15:45:17.190174Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/bin/alacritty" added="2021-06-25T13:33:26.246946Z" modified="2021-06-25T13:52:22.734483Z" visited="2021-06-25T13:33:26.246947Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-mime-settings" exec="&apos;xfce4-mime-settings %u&apos;" modified="2021-06-25T13:52:22.734479Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/alacritty/alacritty.yml.BAK" added="2021-06-25T13:40:31.661029Z" modified="2021-06-25T13:40:31.661034Z" visited="2021-06-25T13:40:31.661030Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-trash"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-25T13:40:31.661031Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/plugged" added="2021-06-25T14:52:08.733426Z" modified="2021-06-25T14:52:08.733432Z" visited="2021-06-25T14:52:08.733428Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-06-25T14:52:08.733429Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/plug-config/whichkey.vim" added="2021-06-25T14:54:13.166376Z" modified="2021-06-25T14:54:13.166386Z" visited="2021-06-25T14:54:13.166379Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-25T14:54:13.166381Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/alacritty/alacritty.yml" added="2021-06-25T14:58:17.395092Z" modified="2021-06-25T14:58:17.395106Z" visited="2021-06-25T14:58:17.395094Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-yaml"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-25T14:58:17.395098Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.local/share/nvim/rplugin.vim" added="2021-06-25T15:01:46.169374Z" modified="2021-06-25T15:01:46.169395Z" visited="2021-06-25T15:01:46.169377Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-25T15:01:46.169383Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/plug-config/coc.vim" added="2021-06-25T15:11:26.094488Z" modified="2021-06-25T15:11:26.094512Z" visited="2021-06-25T15:11:26.094491Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-25T15:11:26.094496Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.config/nvim/coc-settings.json" added="2021-06-25T15:13:30.611677Z" modified="2021-06-25T15:14:07.558910Z" visited="2021-06-25T15:13:30.611680Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/json"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-25T15:14:07.558906Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Arduino/libraries/readme.txt" added="2021-06-25T17:14:59.311680Z" modified="2021-06-25T17:14:59.311687Z" visited="2021-06-25T17:14:59.311682Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-25T17:14:59.311683Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/arduino/hardware/archlinux-arduino/avr/firmwares/atmegaxxu2/arduino-usbdfu/readme.txt" added="2021-06-25T17:19:00.901821Z" modified="2021-06-25T17:19:00.901841Z" visited="2021-06-25T17:19:00.901824Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-25T17:19:00.901831Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/arduino/hardware/archlinux-arduino/avr/firmwares/atmegaxxu2/arduino-usbserial/readme.txt" added="2021-06-25T17:19:49.635958Z" modified="2021-06-25T17:19:49.635980Z" visited="2021-06-25T17:19:49.635959Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-25T17:19:49.635964Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/arduino/hardware/archlinux-arduino/avr/libraries/HID/keywords.txt" added="2021-06-25T17:20:46.829034Z" modified="2021-06-25T17:20:46.829052Z" visited="2021-06-25T17:20:46.829037Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-25T17:20:46.829042Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_jpierro0/HW2%20Math%20340%20SU21.pdf" added="2021-06-27T16:39:15.822049Z" modified="2021-06-27T16:39:15.822058Z" visited="2021-06-27T16:39:15.822050Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-27T16:39:15.822053Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Downloads/CamScanner%2006-27-2021%2017.41.pdf" added="2021-06-27T17:44:21.921667Z" modified="2021-06-27T17:44:21.921686Z" visited="2021-06-27T17:44:21.921669Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-27T17:44:21.921679Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Downloads/Homework2.pdf" added="2021-06-27T17:45:05.404184Z" modified="2021-06-27T17:45:05.404196Z" visited="2021-06-27T17:45:05.404186Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-27T17:45:05.404189Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Documents/work/lufa/LUFA/Documentation/html/_architecture_specific_8h.html" added="2021-06-28T14:08:55.558715Z" modified="2021-06-28T14:08:55.558724Z" visited="2021-06-28T14:08:55.558717Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xhtml+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/usr/lib/firefox/firefox %u&apos;" modified="2021-06-28T14:08:55.558720Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Documents/work/lufa/LUFA/Drivers/Board/AVR8/LEONARDO/Board.h" added="2021-06-28T14:21:11.578511Z" modified="2021-06-28T14:21:11.578518Z" visited="2021-06-28T14:21:11.578514Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nvim %F&apos;" modified="2021-06-28T14:21:11.578517Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Documents/work/lufa/Bootloaders/HID/doxyfile" added="2021-06-28T14:21:51.307541Z" modified="2021-06-28T14:21:51.307558Z" visited="2021-06-28T14:21:51.307543Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-28T14:21:51.307549Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210628" added="2021-06-28T14:44:36.618769Z" modified="2021-06-28T14:44:36.618783Z" visited="2021-06-28T14:44:36.618775Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-06-28T14:44:36.618778Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210628/include" added="2021-06-28T14:46:00.210516Z" modified="2021-06-28T14:46:00.210523Z" visited="2021-06-28T14:46:00.210518Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2021-06-28T14:46:00.210520Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210628/USBtoSerial.bak/Config/LUFAConfig.h" added="2021-06-28T14:46:12.152796Z" modified="2021-06-28T14:46:12.152807Z" visited="2021-06-28T14:46:12.152799Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nvim %F&apos;" modified="2021-06-28T14:46:12.152804Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210628/makefile" added="2021-06-28T14:48:17.366754Z" modified="2021-06-28T14:48:17.366774Z" visited="2021-06-28T14:48:17.366759Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nvim %F&apos;" modified="2021-06-28T14:48:17.366765Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210628/include/LUFA/makefile" added="2021-06-28T14:52:07.708664Z" modified="2021-06-28T14:52:07.708694Z" visited="2021-06-28T14:52:07.708669Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nvim %F&apos;" modified="2021-06-28T14:52:07.708679Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/notes.txt" added="2021-06-28T15:02:36.884652Z" modified="2021-06-28T15:02:36.884666Z" visited="2021-06-28T15:02:36.884655Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-28T15:02:36.884659Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210628/include/LUFA/CodeTemplates/makefile_template" added="2021-06-28T15:06:51.427527Z" modified="2021-06-28T15:23:39.305196Z" visited="2021-06-28T15:06:51.427530Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-28T15:23:39.305190Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210628/include/LUFA/Build/DMBS/DMBS/gcc.mk" added="2021-06-28T15:20:55.234529Z" modified="2021-06-28T15:20:55.234535Z" visited="2021-06-28T15:20:55.234530Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nvim %F&apos;" modified="2021-06-28T15:20:55.234532Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210628/include/LUFA/Build/lufa_atprogram.mk" added="2021-06-28T15:23:15.423720Z" modified="2021-06-28T16:00:14.534764Z" visited="2021-06-28T15:23:15.423724Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nvim %F&apos;" modified="2021-06-28T16:00:14.534754Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Documents/work/lufa/LUFA/Build/LUFA/lufa-gcc.mk" added="2021-06-28T15:48:16.043488Z" modified="2021-06-28T15:48:16.043499Z" visited="2021-06-28T15:48:16.043491Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nvim %F&apos;" modified="2021-06-28T15:48:16.043494Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210628/include/LUFA/Common/Common.h" added="2021-06-28T15:52:25.340995Z" modified="2021-06-28T15:53:01.862816Z" visited="2021-06-28T15:52:25.340996Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nvim %F&apos;" modified="2021-06-28T15:53:01.862811Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210628/Config/LUFAConfig.h" added="2021-06-28T15:54:31.003163Z" modified="2021-06-28T15:54:31.003170Z" visited="2021-06-28T15:54:31.003165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nvim %F&apos;" modified="2021-06-28T15:54:31.003166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210628/include/LUFA/Build/lufa_avrdude.mk" added="2021-06-28T16:00:21.561589Z" modified="2021-06-28T16:00:21.561602Z" visited="2021-06-28T16:00:21.561592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-makefile"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nvim %F&apos;" modified="2021-06-28T16:00:21.561596Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210628/include/LUFA/Build/DMBS/DMBS/atprogram.md" added="2021-06-28T16:00:40.356417Z" modified="2021-06-28T16:00:40.356438Z" visited="2021-06-28T16:00:40.356421Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-28T16:00:40.356428Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Documents/work/lufa/Projects/USBtoSerial" added="2021-06-29T13:53:45.196410Z" modified="2021-06-29T13:53:45.196421Z" visited="2021-06-29T13:53:45.196414Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-06-29T13:53:45.196416Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Downloads/device.png" added="2021-06-29T14:03:20.274351Z" modified="2021-06-29T14:05:19.781760Z" visited="2021-06-29T14:03:20.274353Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2021-06-29T14:03:20.274358Z" count="1"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-29T14:05:19.781752Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_jpierro0/a-star-4.0.2.tar.gz" added="2021-06-30T14:44:35.090331Z" modified="2021-06-30T14:44:35.090342Z" visited="2021-06-30T14:44:35.090335Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-30T14:44:35.090338Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Documents/work/a-star-4.0.2/extra_avrdude.conf" added="2021-06-30T14:45:22.745707Z" modified="2021-06-30T14:45:22.745713Z" visited="2021-06-30T14:45:22.745709Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-30T14:45:22.745711Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Documents/work/a-star-4.0.2/variants/a-star328pb/io_328pb.h" added="2021-06-30T14:45:38.289954Z" modified="2021-06-30T14:45:38.289961Z" visited="2021-06-30T14:45:38.289956Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;nvim %F&apos;" modified="2021-06-30T14:45:38.289957Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Documents/work/a-star-4.0.2/boards.txt" added="2021-06-30T14:46:34.776326Z" modified="2021-06-30T14:46:34.776342Z" visited="2021-06-30T14:46:34.776329Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-06-30T14:46:34.776334Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210630/GreyWolf" added="2021-06-30T15:08:13.583207Z" modified="2021-06-30T15:08:13.583213Z" visited="2021-06-30T15:08:13.583208Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="java" exec="&apos;java %u&apos;" modified="2021-06-30T15:08:13.583210Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_jpierro0/Mtgdb.Gui.zip" added="2021-06-30T17:04:43.926304Z" modified="2021-06-30T17:04:43.926317Z" visited="2021-06-30T17:04:43.926306Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-06-30T17:04:43.926311Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210701/USB_C_CODE" added="2021-07-01T14:39:07.737449Z" modified="2021-07-01T14:39:32.254880Z" visited="2021-07-01T14:39:07.737450Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-07-01T14:39:32.254877Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Dropbox/Danville_Eng/GreyWolf/greywolf_3960_0_1" added="2021-07-01T14:39:44.985510Z" modified="2021-07-01T14:39:44.985516Z" visited="2021-07-01T14:39:44.985511Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2021-07-01T14:39:44.985513Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Downloads/lufa-LUFA-210130.zip" added="2021-07-01T14:56:14.477995Z" modified="2021-07-01T14:56:14.478009Z" visited="2021-07-01T14:56:14.477997Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-07-01T14:56:14.478000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Arduino/libraries/LUFA/activate.py" added="2021-07-01T15:05:35.334018Z" modified="2021-07-01T15:05:35.334022Z" visited="2021-07-01T15:05:35.334019Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python3"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-07-01T15:05:35.334020Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Arduino/libraries/LUFA/install.py" added="2021-07-01T15:05:57.174284Z" modified="2021-07-01T15:05:57.174308Z" visited="2021-07-01T15:05:57.174286Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python3"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-07-01T15:05:57.174296Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Arduino/libraries/LUFA/docs/include_library.png" added="2021-07-01T15:06:26.098413Z" modified="2021-07-01T15:06:26.098428Z" visited="2021-07-01T15:06:26.098415Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;ristretto %F&apos;" modified="2021-07-01T15:06:26.098418Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/Arduino/libraries/LUFA/docs/manual_installation.md" added="2021-07-01T15:06:40.203405Z" modified="2021-07-01T15:06:40.203422Z" visited="2021-07-01T15:06:40.203407Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-07-01T15:06:40.203413Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.dmrc" added="2021-07-04T02:48:33.018666Z" modified="2021-07-04T02:48:33.018681Z" visited="2021-07-04T02:48:33.018671Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-07-04T02:48:33.018674Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jpierro/.gnupg/crls.d/DIR.txt" added="2021-07-04T02:52:55.426167Z" modified="2021-07-04T02:52:55.426195Z" visited="2021-07-04T02:52:55.426173Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;/opt/visual-studio-code/code --no-sandbox --unity-launch %F&apos;" modified="2021-07-04T02:52:55.426181Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

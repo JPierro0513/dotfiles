@@ -1,0 +1,10 @@
+2021/06/23-09:29:26.286 a940 Reusing MANIFEST /home/jpierro/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/06/23-09:29:26.288 a940 Recovering log #17
+2021/06/23-09:29:26.289 a940 Level-0 table #19: started
+2021/06/23-09:29:26.291 a940 Level-0 table #19: 78691 bytes OK
+2021/06/23-09:29:26.291 a940 Recovering log #18
+2021/06/23-09:29:26.292 a940 Reusing old log /home/jpierro/.config/skypeforlinux/Local Storage/leveldb/000018.log 
+2021/06/23-09:29:26.293 a940 Delete type=0 #17
+2021/06/23-09:30:26.577 a986 Level-0 table #21: started
+2021/06/23-09:30:26.580 a986 Level-0 table #21: 78893 bytes OK
+2021/06/23-09:30:26.582 a986 Delete type=0 #18

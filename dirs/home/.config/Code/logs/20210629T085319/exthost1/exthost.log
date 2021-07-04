@@ -1,0 +1,86 @@
+[2021-06-29 08:53:21.547] [exthost] [info] extension host started
+[2021-06-29 08:53:21.729] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-29 08:53:21.729] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-29 08:53:21.739] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:markdown"}
+[2021-06-29 08:53:21.739] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-06-29 08:53:21.746] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
+[2021-06-29 08:53:21.746] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/markdown-language-features/dist/extension
+[2021-06-29 08:53:21.780] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-29 08:53:21.780] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-06-29 08:53:21.785] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-29 08:53:21.785] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-06-29 08:53:21.808] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2021-06-29 08:53:21.808] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jpierro/.vscode/extensions/vscode-icons-team.vscode-icons-11.5.0/dist/src/vscode-icons.bundle.js
+[2021-06-29 08:53:22.290] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-29 08:53:22.290] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-29 08:53:22.398] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-29 08:53:22.398] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-06-29 08:53:22.510] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-29 08:53:22.510] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-29 08:53:22.960] [exthost] [info] eager extensions activated
+[2021-06-29 08:53:22.962] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-29 08:53:22.962] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-29 08:53:22.972] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-29 08:53:22.972] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-29 08:53:22.975] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-29 08:53:22.975] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-29 08:53:22.976] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-06-29 08:53:22.976] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jpierro/.vscode/extensions/eamodio.gitlens-11.5.1/dist/gitlens
+[2021-06-29 08:53:23.007] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-06-29 08:53:23.007] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jpierro/.vscode/extensions/esbenp.prettier-vscode-8.0.1/dist/extension
+[2021-06-29 08:53:23.099] [exthost] [error] Activating extension esbenp.prettier-vscode failed due to an error:
+[2021-06-29 08:53:23.099] [exthost] [error] TypeError: Cannot assign to read only property 'prettierPath' of object '#<Object>'
+	at Object.t.getConfig (/home/jpierro/.vscode/extensions/esbenp.prettier-vscode-8.0.1/dist/extension.js:1:21612)
+	at e.activate (/home/jpierro/.vscode/extensions/esbenp.prettier-vscode-8.0.1/dist/extension.js:1:73278)
+	at Function._callActivateOptional (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:14948)
+	at Function._callActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:14621)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:12781
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async Promise.all (index 0)
+[2021-06-29 08:53:45.239] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-06-29 08:53:46.252] [exthost] [info] exiting with code 0
+[2021-06-29 08:53:46.939] [exthost] [info] extension host started
+[2021-06-29 08:53:47.040] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-29 08:53:47.040] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-29 08:53:47.055] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-29 08:53:47.056] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-06-29 08:53:47.059] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-29 08:53:47.059] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-06-29 08:53:47.087] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"extensionId":{"value":"christian-kohler.path-intellisense","_lower":"christian-kohler.path-intellisense"},"activationEvent":"*"}
+[2021-06-29 08:53:47.087] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jpierro/.vscode/extensions/christian-kohler.path-intellisense-2.3.0/out/extension.js
+[2021-06-29 08:53:47.115] [exthost] [info] ExtensionService#_doActivateExtension donjayamanne.githistory {"startup":true,"extensionId":{"value":"donjayamanne.githistory","_lower":"donjayamanne.githistory"},"activationEvent":"*"}
+[2021-06-29 08:53:47.115] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jpierro/.vscode/extensions/donjayamanne.githistory-0.6.16/dist/src/extension
+[2021-06-29 08:53:47.141] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker {"startup":true,"extensionId":{"value":"streetsidesoftware.code-spell-checker","_lower":"streetsidesoftware.code-spell-checker"},"activationEvent":"*"}
+[2021-06-29 08:53:47.141] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jpierro/.vscode/extensions/streetsidesoftware.code-spell-checker-1.10.2/dist/extension.js
+[2021-06-29 08:53:47.164] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2021-06-29 08:53:47.164] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jpierro/.vscode/extensions/vscode-icons-team.vscode-icons-11.5.0/dist/src/vscode-icons.bundle.js
+[2021-06-29 08:53:47.444] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-29 08:53:47.444] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-29 08:53:47.533] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-29 08:53:47.533] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-06-29 08:53:47.638] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-29 08:53:47.638] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-29 08:53:48.157] [exthost] [info] eager extensions activated
+[2021-06-29 08:53:48.159] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-06-29 08:53:48.159] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-29 08:53:48.164] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-06-29 08:53:48.164] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-29 08:53:48.168] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-06-29 08:53:48.168] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-06-29 08:53:48.170] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":false,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"onStartupFinished"}
+[2021-06-29 08:53:48.170] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jpierro/.vscode/extensions/eamodio.gitlens-11.5.1/dist/gitlens
+[2021-06-29 08:53:48.198] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-06-29 08:53:48.198] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jpierro/.vscode/extensions/esbenp.prettier-vscode-8.0.1/dist/extension
+[2021-06-29 08:54:13.843] [exthost] [info] ExtensionService#_doActivateExtension austin.code-gnu-global {"startup":false,"extensionId":{"value":"austin.code-gnu-global","_lower":"austin.code-gnu-global"},"activationEvent":"onLanguage:cpp"}
+[2021-06-29 08:54:13.843] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jpierro/.vscode/extensions/austin.code-gnu-global-0.2.2/out/src/extension
+[2021-06-29 08:54:13.895] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":false,"extensionId":{"value":"ms-vscode.cpptools","_lower":"ms-vscode.cpptools"},"activationEvent":"onLanguage:cpp"}
+[2021-06-29 08:54:13.895] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/jpierro/.vscode/extensions/ms-vscode.cpptools-1.4.1/dist/main
+[2021-06-29 08:54:26.575] [exthost] [warning] TextEditor is closed/disposed
+[2021-06-29 08:54:35.606] [exthost] [warning] TextEditor is closed/disposed
+[2021-06-29 08:54:38.315] [exthost] [warning] TextEditor is closed/disposed
+[2021-06-29 08:54:41.631] [exthost] [warning] TextEditor is closed/disposed
+[2021-06-29 08:54:54.455] [exthost] [warning] TextEditor is closed/disposed
+[2021-06-29 09:00:58.355] [exthost] [warning] TextEditor is closed/disposed
+[2021-06-29 09:01:04.239] [exthost] [warning] TextEditor is closed/disposed
+[2021-06-29 09:01:13.855] [exthost] [warning] TextEditor is closed/disposed

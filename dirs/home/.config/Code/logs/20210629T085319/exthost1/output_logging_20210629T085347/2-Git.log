@@ -1,0 +1,39 @@
+Looking for git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/jpierro/Documents/work/lufa
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/jpierro/Documents/work/lufa/.git/refs/remotes/origin/master', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :Projects/USBtoSerial/Descriptors.h
+> git ls-files --stage -- /home/jpierro/Documents/work/lufa/Projects/USBtoSerial/Descriptors.h
+> git cat-file -s 75f93c4c7c1f16a863ba8f2b0c0b349bf801d4d8
+> git show --textconv :Projects/USBtoSerial/Descriptors.c
+> git ls-files --stage -- /home/jpierro/Documents/work/lufa/Projects/USBtoSerial/Descriptors.c
+> git cat-file -s d9d86ae86793a907e3f8d253679d2147cba98c1d
+> git show --textconv :Projects/USBtoSerial/Descriptors.h
+> git ls-files --stage -- /home/jpierro/Documents/work/lufa/Projects/USBtoSerial/Descriptors.h
+> git cat-file -s 75f93c4c7c1f16a863ba8f2b0c0b349bf801d4d8
+> git show --textconv :Projects/USBtoSerial/Descriptors.c
+> git ls-files --stage -- /home/jpierro/Documents/work/lufa/Projects/USBtoSerial/Descriptors.c
+> git cat-file -s d9d86ae86793a907e3f8d253679d2147cba98c1d
+> git show --textconv :Projects/USBtoSerial/Descriptors.h
+> git ls-files --stage -- /home/jpierro/Documents/work/lufa/Projects/USBtoSerial/Descriptors.h
+> git cat-file -s 75f93c4c7c1f16a863ba8f2b0c0b349bf801d4d8
+> git show --textconv :Projects/USBtoSerial/Descriptors.c
+> git ls-files --stage -- /home/jpierro/Documents/work/lufa/Projects/USBtoSerial/Descriptors.c
+> git cat-file -s d9d86ae86793a907e3f8d253679d2147cba98c1d
+> git show --textconv :Projects/USBtoSerial/Descriptors.h
+> git ls-files --stage -- /home/jpierro/Documents/work/lufa/Projects/USBtoSerial/Descriptors.h
+> git cat-file -s 75f93c4c7c1f16a863ba8f2b0c0b349bf801d4d8
+> git show --textconv :Projects/USBtoSerial/USBtoSerial.c
+> git ls-files --stage -- /home/jpierro/Documents/work/lufa/Projects/USBtoSerial/USBtoSerial.c
+> git cat-file -s d1a8893155c58a4b21550ed6126fbddeeda4621d
+> git show --textconv :Projects/USBtoSerial/Descriptors.c
+> git ls-files --stage -- /home/jpierro/Documents/work/lufa/Projects/USBtoSerial/Descriptors.c
+> git cat-file -s d9d86ae86793a907e3f8d253679d2147cba98c1d

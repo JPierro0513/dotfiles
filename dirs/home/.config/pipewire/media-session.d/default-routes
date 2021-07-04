@@ -1,0 +1,20 @@
+{
+ "default.route.alsa_card.pci-0000_04_00.1:profile:off": [ ],
+ "default.route.alsa_card.pci-0000_04_00.6:profile:off": [ ],
+ "default.route.alsa_card.pci-0000_04_00.6:profile:HiFi": [ "[Out] Speaker", "[In] Mic1" ],
+ "default.route.alsa_card.pci-0000_04_00.1:profile:HiFi": [ "[Out] HDMI1" ],
+ "default.route.alsa_card.usb-Generic_USB_Audio_200901010001-00:profile:off": [ ],
+ "default.route.alsa_card.usb-Generic_USB_Audio_200901010001-00:profile:HiFi": [ "[Out] Line", "[Out] Headphones", "[In] Mic" ],
+ "default.route.alsa_card.pci-0000_04_00.6:output:[Out] Speaker": { "mute": false, "volumes": [ 0.999359, 0.999359 ], "channels": [ "FL", "FR" ] },
+ "default.route.alsa_card.pci-0000_04_00.6:input:[In] Mic1": { "mute": false, "volumes": [ 0.399992, 0.399992 ], "channels": [ "FL", "FR" ] },
+ "default.route.alsa_card.pci-0000_04_00.6:input:[In] Mic2": { "mute": false, "volumes": [ 0.399992, 0.399992 ], "channels": [ "FL", "FR" ] },
+ "default.route.bluez_card.94_DB_56_D0_BB_C9:profile:headset-head-unit-cvsd": [ "headset-input", "headset-output" ],
+ "default.route.bluez_card.94_DB_56_D0_BB_C9:input:headset-input": { "mute": false, "volumes": [ 0.400000 ], "channels": [ "MONO" ] },
+ "default.route.bluez_card.94_DB_56_D0_BB_C9:output:headset-output": { "mute": false, "volumes": [ 0.314422, 0.314422 ], "channels": [ "FL", "FR" ], "latencyOffsetNsec": 0 },
+ "default.route.alsa_card.pci-0000_04_00.1:output:[Out] HDMI1": { "mute": false, "volumes": [ 0.399992, 0.399992 ], "channels": [ "FL", "FR" ] },
+ "default.route.bluez_card.94_DB_56_D0_BB_C9:profile:headset-head-unit-msbc": [ ],
+ "default.route.alsa_card.usb-Generic_USB_Audio_200901010001-00:output:[Out] Line": { "mute": false, "volumes": [ 0.399992, 0.399992 ], "channels": [ "FL", "FR" ] },
+ "default.route.alsa_card.usb-Generic_USB_Audio_200901010001-00:output:[Out] Headphones": { "mute": false, "volumes": [ 0.728985, 0.728985 ], "channels": [ "FL", "FR" ] },
+ "default.route.alsa_card.usb-Generic_USB_Audio_200901010001-00:input:[In] Mic": { "mute": false, "volumes": [ 0.399992, 0.399992 ], "channels": [ "FL", "FR" ] },
+ "default.route.bluez_card.94_DB_56_D0_BB_C9:profile:a2dp-sink-ldac": [ "headset-output" ]
+}

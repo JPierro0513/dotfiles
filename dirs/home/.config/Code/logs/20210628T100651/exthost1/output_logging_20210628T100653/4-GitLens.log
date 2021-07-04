@@ -1,0 +1,1 @@
+[2021-06-28 15:06:54:027] [/home/jpierro/Dropbox/Danville_Eng/GreyWolf/arduino_freeze/arduino_210628/include/LUFA/CodeTemplates] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git • 13 ms 

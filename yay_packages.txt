@@ -1,0 +1,13 @@
+desert-theme-git
+dropbox
+neovim-nightly-bin
+nerd-fonts-complete
+nvm
+skypeforlinux-stable-bin
+slack-desktop
+spotify
+teams
+usbasp-udev
+visual-studio-code-bin
+yay
+zoom

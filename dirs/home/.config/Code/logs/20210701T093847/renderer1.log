@@ -1,0 +1,16 @@
+[2021-07-01 09:39:46.487] [renderer1] [error] No authentication provider 'github' is currently registered.: Error: No authentication provider 'github' is currently registered.
+    at O.getSessions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:11965)
+    at async g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2267:21958)
+[2021-07-01 09:39:46.495] [renderer1] [error] No authentication provider 'github' is currently registered.: Error: No authentication provider 'github' is currently registered.
+    at O.getSessions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:11965)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async bi.getAccounts (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2417:10540)
+    at async bi.update (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2417:10277)
+[2021-07-01 09:39:48.405] [renderer1] [error] No authentication provider 'github' is currently registered.: Error: No authentication provider 'github' is currently registered.
+    at O.getSessions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:11965)
+    at async g (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2267:21958)
+[2021-07-01 09:39:48.455] [renderer1] [error] No authentication provider 'github' is currently registered.: Error: No authentication provider 'github' is currently registered.
+    at O.getSessions (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2000:11965)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+    at async bi.getAccounts (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2417:10540)
+    at async bi.update (file:///opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2417:10277)
